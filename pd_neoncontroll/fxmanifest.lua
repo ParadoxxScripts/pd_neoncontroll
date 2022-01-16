@@ -2,11 +2,9 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'RTX NEONS'
+description 'ParadoxDev - Neoncontroll'
 
 version '1.0'
-
--- Leaked By: Leaking Hub | J. Snow | leakinghub.com
 
 client_scripts {
 	'config.lua',
